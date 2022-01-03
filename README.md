@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏫 Learning
+
+* [Advent of Code](https://github.com/quassy/aoc) various challenges in Python, PHP
+* ~~Project Euler~~ mathematical challenges in Python
+* [freeCodeCamp](https://github.com/quassy/fcc) data science & programming in Python
+* [Learn Go](https://github.com/quassy/learn-go) from scratch
+
+tbc
