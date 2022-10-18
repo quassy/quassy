@@ -1,25 +1,17 @@
-### Hi there 👋
-
-<!--
-**quassy/quassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
 
 ## 🏫 Learning
 
 * [Advent of Code](https://github.com/quassy/aoc) various challenges in Python, PHP
+* [Data Engineering Zoomcamp](https://github.com/quassy/dez) course by DataTalksClub
 * ~~Project Euler~~ mathematical challenges in Python
 * [freeCodeCamp](https://github.com/quassy/fcc) data science & programming in Python
 * [Learn Go](https://github.com/quassy/learn-go) from scratch
 
-tbc
+## 🛹 Sideprojects
+
+* [PwdHash](https://github.com/quassy/pwdhash) semi-secure local password generator
+
+## ⚒️ Working
+
+...
